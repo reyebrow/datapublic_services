@@ -12,7 +12,7 @@ function datapublic_services_views_default_views() {
 
   $view = new view;
   $view->name = 'services';
-  $view->description = '';
+  $view->description = 'Default views for Service listings.';
   $view->tag = 'default';
   $view->base_table = 'node';
   $view->human_name = 'Services';
