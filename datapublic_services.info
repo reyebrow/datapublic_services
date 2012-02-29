@@ -1,7 +1,7 @@
 name = "Datapublic Services"
 description = "Provides content types, views, contexts, libraries and logic for services."
 core = "7.x"
-package = "Datapublic"
+package = "DataPublic"
 php = "5.2.4"
 version = "7.x-1.0"
 project = "datapublic_services"
